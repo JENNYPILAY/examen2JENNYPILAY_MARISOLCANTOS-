@@ -1,6 +1,7 @@
-
-
-
+var opcion=("carga");
+function cambioselect (){
+	
+}
 
 
 
