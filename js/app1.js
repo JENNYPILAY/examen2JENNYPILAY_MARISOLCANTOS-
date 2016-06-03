@@ -1,6 +1,6 @@
 var opcion=("carga");
 function cambioselect (){
-	
+
 }
 
 
@@ -12,11 +12,15 @@ $(".botton").click(function()
 	if(opcion =="carga")
 
 
-
-	{
-	document.write("hoola");
+{ document.write(“buscando carga”);
 }
+else if (opción==”bandera”)
+{document.write(“buscando bandera”);
+	}
+else if (opción==”buque”)
+{document.write(“buscando nombre de buque”);
 });
+
 
 
 
