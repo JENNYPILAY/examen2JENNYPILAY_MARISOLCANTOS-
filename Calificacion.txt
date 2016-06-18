@@ -1,0 +1,10 @@
+Detalle Calificacion  22.5 /50
+Pagina de Servicios (5 Puntos): 2.5 Puntos. No ha puesto nada de informacion de los servicios portuarios, esto es muy facil de hacer, es un pagina web estatica. No hay excusa.
+Pagina de Arribo de Buques con Arreglo de Objetos (10 Puntos): 0 Puntos. No tienen nada, ni siquiera el arreglo de objetos buque.
+Busqueda de buques en 3 criterios(carga, bandera, nombre) (15 Puntos): 5 Puntos. Al menos intentaron y pusieron el select. Aunque no implementaron al menos entendieron bien el requisito.
+Galeria con JQuery (10 Puntos): 10 Puntos. La galeria funciona, aunque no tiene descripcion en las imagenes, le dare como valido.
+Calidad de código (comentarios, código que ejecute, ausencia de errores, uso de git, estetica) (10 Puntos): 5 Puntos. No tienen comentarios adicionales, tienen errores en la consola, codigo no ejecuta sin fallas.
+
+Comentarios Profesor
+Tienen un monton de codigo que no se usa, eso es mala calidad de codigo.
+No tienen el arreglo de objetos buque, eso era super importante.
